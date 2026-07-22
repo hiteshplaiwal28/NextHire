@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "python",
+			"path": "../python"
+		},
+		{
+			"name": "c language",
+			"path": "../c language"
+		},
+		{
+			"path": "../python/Loan Approval"
+		},
+		{
+			"path": "../CAREM"
+		},
+		{
+			"path": "../dsa"
+		},
+		{
+			"path": "../test"
+		}
+	]
+}
